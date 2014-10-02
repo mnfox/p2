@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>CSCI E-15 P2</title>
-		<meta "charset=utf-8" />
+		<meta charset="UTF-8" />
 		<script src="js/jquery.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/init.js"></script>
@@ -100,9 +100,10 @@
 			<header class="special container">
 				<h2>XKCD Password Generator</h2>
 				<hr/>
-				<img src="images/xkcd.png" alt="XKCD Password Comic">
+				<img src="images/xkcd.png" alt="XKCD Password Comic" />
 				<p>To generate your very own xkcd password, check out the form below!</p>
 			</header>
+		</article>
 		<section class="wrapper style2 container special-alt">
 			<header>
 				<h2>Your password is...</h2>
@@ -132,8 +133,8 @@
 							</ul>
 						</div>
 					</div>
-				</div>
-			</form>
+				</form>
+			</div>
 		</section>
 	</body>
 </html>
