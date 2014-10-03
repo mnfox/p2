@@ -13,7 +13,7 @@ This project is a password generator based on the xkcd password comic seen on th
 
 Demo
 --
-To be added very soon!
+http://screencast.com/t/twUJU9UFk (sorry the audio quality becomes a bit poor at the end - hopefully it's still audible!). 
 
 Outside Resources
 --
